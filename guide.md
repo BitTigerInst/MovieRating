@@ -14,8 +14,8 @@ git push origin master
 ```
 
 
+## 进度记录
 - legendtkl把自己的进度记录到record_legendtkl.md中
 - chnwentao把自己的进度记录到record_chnwentao.md中
 - fangjixin把自己的进度记录到record_fangjixin.md中
-
-团队日子record_team,legendtkl负责记录
+- 团队日志record_team,legendtkl负责记录
