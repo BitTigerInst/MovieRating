@@ -7,4 +7,4 @@ The implementation in spark.mllib has the following parameters:
 - `iterations` is the number of iterations to run.
 - `lambda` specifies the regularization parameter in ALS.
 - `implicitPrefs` specifies whether to use the explicit feedback ALS variant or one adapted for implicit - - feedback data.
-- `alpha ` is a parameter applicable to the implicit feedback variant of ALS that governs the baseline confidence in preference observations.``
+- `alpha ` is a parameter applicable to the implicit feedback variant of ALS that governs the baseline confidence in preference observations.
