@@ -1,6 +1,8 @@
 ## 代码环境
 spark 1.6.1 on hadoop 2.7
+
 python 3.5 on anaconda 3
+
 ipython notebook
 
 ## record
@@ -17,11 +19,17 @@ ipython notebook
 
 ### 2016-6-18
 完成基于spark的电影推荐的流程：
+
 1. 数据处理
+
 2. 模型训练
+
 3. 预测
+
 4. 模型评估
+
 5. 用户推荐
+
 6. 物品推荐
 
 [CFwithPyspark_2th.ipynb](./CFwithPyspark_2th.ipynb)
