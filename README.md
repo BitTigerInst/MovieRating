@@ -17,7 +17,7 @@ We are going to use a technique called collaborative filtering[2]. Collaborative
 
 ### Time Schedule
 |  Start     |  End        |  Target           | Expected WorkTime|
-| :--------- |:----------- | :---------------- | :---------------| 
+| :--------- |:----------- | :---------------- | :---------------|
 | 2016-06-13 | 2016-06-19  | 1. Have an overview of the project.  2.find a solution and make scoping|  10 hours  |
 
 
